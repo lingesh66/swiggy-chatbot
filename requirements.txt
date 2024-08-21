@@ -1,0 +1,8 @@
+langchain-huggingface
+transformers
+pinecone-client 
+streamlit
+huggingface_hub
+langchain-community
+langchain
+numpy
